@@ -1,0 +1,86 @@
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Bot Application.dll.config
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Bot Application.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Bot Application.pdb
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Autofac.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Chronic.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Microsoft.Bot.Builder.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Microsoft.Bot.Connector.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Newtonsoft.Json.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\System.Net.Http.Formatting.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\System.Web.Http.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\System.Web.Http.WebHost.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Autofac.xml
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Microsoft.Bot.Builder.xml
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Microsoft.Bot.Connector.xml
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\Newtonsoft.Json.xml
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\System.Net.Http.Formatting.xml
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\System.Web.Http.xml
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\System.Web.Http.WebHost.xml
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\obj\Debug\MedicBot.csprojResolveAssemblyReference.cache
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\obj\Debug\MedicBot.csproj.CoreCompileInputs.cache
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\obj\Debug\Bot Application.dll
+c:\users\cjn\documents\visual studio 2017\Projects\MedicBot\MedicBot\obj\Debug\Bot Application.pdb
+C:\Users\cjn\Documents\Visual Studio 2017\Projects\MedicBot\MedicBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\cjn\Documents\Visual Studio 2017\Projects\MedicBot\MedicBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Bot Application.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Bot Application.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Bot Application.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Autofac.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Chronic.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\System.Web.Http.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Autofac.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\System.Web.Http.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\obj\Debug\MedicBot.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\obj\Debug\MedicBot.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\obj\Debug\Bot Application.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\MedicBot\MedicBot\obj\Debug\Bot Application.pdb
