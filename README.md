@@ -1,5 +1,8 @@
 # medical-bot
 A robot about biomedical question and answer.
+服务器比较便宜，速度慢，请见谅(*￣︶￣)
+服务器比较便宜，速度慢，请见谅(*￣︶￣)
+服务器比较便宜，速度慢，请见谅(*￣︶￣)
 
 测试网址：
 https://webchat.botframework.com/embed/medicbot?s=W_hLirJl6e8.cwA.Jto.qMkic5MpiHEDUf0bH5yE9YscuJ9vnvgBORfD9_fS8SM
