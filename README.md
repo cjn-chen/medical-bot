@@ -2,8 +2,7 @@
 A robot about biomedical question and answer.
 
 测试网址：
-https://webchat.botframework.com/embed/medicbot?s=W_hLirJl6e8.cwA.Jto.qMkic5MpiHEDUf0bH5yE9YscuJ9vnvgB
-ORfD9_fS8SM
+https://webchat.botframework.com/embed/medicbot?s=W_hLirJl6e8.cwA.Jto.qMkic5MpiHEDUf0bH5yE9YscuJ9vnvgBORfD9_fS8SM
 
 简单的医疗问答机器人， 询问常见的血液检测分子的正常水平，
 可以尝试的问题为： “尿酸是什么？ ”，“血钾是什么？ ”，“尿酸 200 偏高吗？ ”“磷酸参考水平？ ”，“血清铁的英文名”“血清铁的简称” 。 
