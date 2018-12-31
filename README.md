@@ -1,7 +1,7 @@
 # medical-bot
 A robot about biomedical question and answer.
 
-由于微软框架迁移到Azure上，之前的链接已无法访问。
+<font color=red>由于微软框架迁移到Azure上，之前的链接已无法访问。</font>
 
 将LUIS返回的结果进行组装，生成对应的SQL语句在数据库中进行查询，代码见：
 https://github.com/cjn-chen/medical-bot/blob/master/MedicBot/database/useDatebase.cs
